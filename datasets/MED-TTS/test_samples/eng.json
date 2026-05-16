@@ -1,0 +1,172 @@
+[
+  {
+    "input": {
+      "text": "Raindrops splatter harshly, each one a stinging reminder until giggles fill the air like dancing fairy dust.",
+      "text_category": "vivid_descriptive",
+      "emotion_seq": [
+        "Angry",
+        "Happy"
+      ]
+    },
+    "output": {
+      "segments": [
+        {
+          "lines_seg": "Raindrops splatter harshly, each one a stinging reminder ",
+          "emotion": "Angry",
+          "emotion_description": "The voice is tense and sharp, with a biting edge.",
+          "time": "3.9",
+          "prompt_wav": "0011/Neutral/0011_000001.wav",
+          "prompt_utt_id": "0011_000001",
+          "prompt_text": "The nine the eggs, I keep.",
+          "generated_wav": "english_0000.wav"
+        },
+        {
+          "lines_seg": "until giggles fill the air like dancing fairy dust.",
+          "emotion": "Happy",
+          "emotion_description": "The tone turns light and airy, full of playful joy.",
+          "time": "4.2",
+          "prompt_wav": "0011/Neutral/0011_000001.wav",
+          "prompt_utt_id": "0011_000001",
+          "prompt_text": "The nine the eggs, I keep.",
+          "generated_wav": "english_0000.wav"
+        }
+      ]
+    }
+  },
+  {
+    "input": {
+      "text": "I've told you repeatedly! Yet, seeing her smile makes everything melt away, like ice in warm sunlight.",
+      "text_category": "emotional_dialogue",
+      "emotion_seq": [
+        "Angry",
+        "Happy"
+      ]
+    },
+    "output": {
+      "segments": [
+        {
+          "lines_seg": "I've told you repeatedly! ",
+          "emotion": "Angry",
+          "emotion_description": "The voice is sharp and forceful, with a clipped intensity.",
+          "time": "1.58",
+          "prompt_wav": "0012/Neutral/0012_000001.wav",
+          "prompt_utt_id": "0012_000001",
+          "prompt_text": "The nine the eggs, I keep.",
+          "generated_wav": "english_0001.wav"
+        },
+        {
+          "lines_seg": "Yet, seeing her smile makes everything melt away, like ice in warm sunlight.",
+          "emotion": "Happy",
+          "emotion_description": "The tone softens and brightens, with a gentle, soothing flow.",
+          "time": "3.44",
+          "prompt_wav": "0012/Neutral/0012_000001.wav",
+          "prompt_utt_id": "0012_000001",
+          "prompt_text": "The nine the eggs, I keep.",
+          "generated_wav": "english_0001.wav"
+        }
+      ]
+    }
+  },
+  {
+    "input": {
+      "text": "Fists clenched as thunder growls, yet laughter emerges, dancing on the breeze like leaves chasing sunlight.",
+      "text_category": "observational_phrase",
+      "emotion_seq": [
+        "Angry",
+        "Happy"
+      ]
+    },
+    "output": {
+      "segments": [
+        {
+          "lines_seg": "Fists clenched as thunder growls, ",
+          "emotion": "Angry",
+          "emotion_description": "The voice is tense and forceful, with a sharp, intense edge.",
+          "time": "2.6",
+          "prompt_wav": "0013/Neutral/0013_000001.wav",
+          "prompt_utt_id": "0013_000001",
+          "prompt_text": "The nine the eggs, I keep.",
+          "generated_wav": "english_0002.wav"
+        },
+        {
+          "lines_seg": "yet laughter emerges, dancing on the breeze like leaves chasing sunlight.",
+          "emotion": "Happy",
+          "emotion_description": "The tone becomes light and airy, with a joyful, flowing rhythm.",
+          "time": "5.2",
+          "prompt_wav": "0013/Neutral/0013_000001.wav",
+          "prompt_utt_id": "0013_000001",
+          "prompt_text": "The nine the eggs, I keep.",
+          "generated_wav": "english_0002.wav"
+        }
+      ]
+    }
+  },
+  {
+    "input": {
+      "text": "Heat swells in my chest like molten iron, simmering to ash under the weight of a dim, suffocating gloom.",
+      "text_category": "vivid_descriptive",
+      "emotion_seq": [
+        "Angry",
+        "Sad"
+      ]
+    },
+    "output": {
+      "segments": [
+        {
+          "lines_seg": "Heat swells in my chest like molten iron, ",
+          "emotion": "Angry",
+          "emotion_description": "The voice is tense and forceful, with rising intensity.",
+          "time": "2.8",
+          "prompt_wav": "0014/Neutral/0014_000001.wav",
+          "prompt_utt_id": "0014_000001",
+          "prompt_text": "The nine the eggs, I keep.",
+          "generated_wav": "english_0003.wav"
+        },
+        {
+          "lines_seg": "simmering to ash under the weight of a dim, suffocating gloom.",
+          "emotion": "Sad",
+          "emotion_description": "The tone softens and slows, heavy with resignation.",
+          "time": "3.9",
+          "prompt_wav": "0014/Neutral/0014_000001.wav",
+          "prompt_utt_id": "0014_000001",
+          "prompt_text": "The nine the eggs, I keep.",
+          "generated_wav": "english_0003.wav"
+        }
+      ]
+    }
+  },
+  {
+    "input": {
+      "text": "Is it so hard to understand my point? Your silence cuts deeper than any harsh words could.",
+      "text_category": "emotional_dialogue",
+      "emotion_seq": [
+        "Angry",
+        "Sad"
+      ]
+    },
+    "output": {
+      "segments": [
+        {
+          "lines_seg": "Is it so hard to understand my point? ",
+          "emotion": "Angry",
+          "emotion_description": "The voice is tense and confrontational, with a sharp, questioning edge.",
+          "time": "2.5",
+          "prompt_wav": "0015/Neutral/0015_000001.wav",
+          "prompt_utt_id": "0015_000001",
+          "prompt_text": "The nine the eggs, I keep.",
+          "generated_wav": "english_0004.wav"
+        },
+        {
+          "lines_seg": "Your silence cuts deeper than any harsh words could.",
+          "emotion": "Sad",
+          "emotion_description": "The tone softens and slows, carrying a sense of hurt and resignation.",
+          "time": "3.6",
+          "prompt_wav": "0015/Neutral/0015_000001.wav",
+          "prompt_utt_id": "0015_000001",
+          "prompt_text": "The nine the eggs, I keep.",
+          "generated_wav": "english_0004.wav"
+        }
+      ]
+    }
+  }
+]

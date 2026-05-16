@@ -1,0 +1,172 @@
+[
+  {
+    "input": {
+      "text": "手指在键盘上飞舞，怒火中烧的眼神闪烁，忽然屏幕亮起一封喜讯。",
+      "text_category": "vivid_descriptive",
+      "emotion_seq": [
+        "Angry",
+        "Happy"
+      ]
+    },
+    "output": {
+      "segments": [
+        {
+          "lines_seg": "手指在键盘上飞舞，怒火中烧的眼神闪烁，",
+          "emotion": "Angry",
+          "emotion_description": "语速较快，语气紧张，带有压迫感",
+          "time": "3.0",
+          "prompt_wav": "0001/Neutral/0001_000001.wav",
+          "prompt_utt_id": "0001_000001",
+          "prompt_text": "打远一看，它们的确很是美丽，",
+          "generated_wav": "chinese_0000.wav"
+        },
+        {
+          "lines_seg": "忽然屏幕亮起一封喜讯。",
+          "emotion": "Happy",
+          "emotion_description": "语调欢快，声音明亮，略有上扬",
+          "time": "2.4",
+          "prompt_wav": "0001/Neutral/0001_000001.wav",
+          "prompt_utt_id": "0001_000001",
+          "prompt_text": "打远一看，它们的确很是美丽，",
+          "generated_wav": "chinese_0000.wav"
+        }
+      ]
+    }
+  },
+  {
+    "input": {
+      "text": "火焰般的目光扫过四周,笑容却悄然浮现。",
+      "text_category": "emotional_dialogue",
+      "emotion_seq": [
+        "Angry",
+        "Happy"
+      ]
+    },
+    "output": {
+      "segments": [
+        {
+          "lines_seg": "火焰般的目光扫过四周,",
+          "emotion": "Angry",
+          "emotion_description": "语气强烈，语速稍快，带有压迫感",
+          "time": "1.8",
+          "prompt_wav": "0002/Neutral/0002_000001.wav",
+          "prompt_utt_id": "0002_000001",
+          "prompt_text": "打远一看，它们的确很是美丽，",
+          "generated_wav": "chinese_0001.wav"
+        },
+        {
+          "lines_seg": "笑容却悄然浮现。",
+          "emotion": "Happy",
+          "emotion_description": "声音柔和，语调轻快，富有感染力",
+          "time": "2.1",
+          "prompt_wav": "0002/Neutral/0002_000001.wav",
+          "prompt_utt_id": "0002_000001",
+          "prompt_text": "打远一看，它们的确很是美丽，",
+          "generated_wav": "chinese_0001.wav"
+        }
+      ]
+    }
+  },
+  {
+    "input": {
+      "text": "杯子从手中滑落，碎片反射出窗外的彩虹光芒。",
+      "text_category": "observational_phrase",
+      "emotion_seq": [
+        "Angry",
+        "Happy"
+      ]
+    },
+    "output": {
+      "segments": [
+        {
+          "lines_seg": "杯子从手中滑落，",
+          "emotion": "Angry",
+          "emotion_description": "语气紧绷，音量略高，语速加快",
+          "time": "2.0",
+          "prompt_wav": "0003/Neutral/0003_000001.wav",
+          "prompt_utt_id": "0003_000001",
+          "prompt_text": "打远一看，它们的确很是美丽，",
+          "generated_wav": "chinese_0002.wav"
+        },
+        {
+          "lines_seg": "碎片反射出窗外的彩虹光芒。",
+          "emotion": "Happy",
+          "emotion_description": "语调轻快，声音明亮，节奏舒缓",
+          "time": "2.7",
+          "prompt_wav": "0003/Neutral/0003_000001.wav",
+          "prompt_utt_id": "0003_000001",
+          "prompt_text": "打远一看，它们的确很是美丽，",
+          "generated_wav": "chinese_0002.wav"
+        }
+      ]
+    }
+  },
+  {
+    "input": {
+      "text": "风起叶落,心如火烧,看似无声的泪水涌动。",
+      "text_category": "vivid_descriptive",
+      "emotion_seq": [
+        "Angry",
+        "Sad"
+      ]
+    },
+    "output": {
+      "segments": [
+        {
+          "lines_seg": "风起叶落,心如火烧,",
+          "emotion": "Angry",
+          "emotion_description": "语气激动，声音有力而紧绷",
+          "time": "2.5",
+          "prompt_wav": "0004/Neutral/0004_000001.wav",
+          "prompt_utt_id": "0004_000001",
+          "prompt_text": "打远一看，它们的确很是美丽，",
+          "generated_wav": "chinese_0003.wav"
+        },
+        {
+          "lines_seg": "看似无声的泪水涌动。",
+          "emotion": "Sad",
+          "emotion_description": "声音低沉，节奏缓慢，带有哀伤",
+          "time": "2.8",
+          "prompt_wav": "0004/Neutral/0004_000001.wav",
+          "prompt_utt_id": "0004_000001",
+          "prompt_text": "打远一看，它们的确很是美丽，",
+          "generated_wav": "chinese_0003.wav"
+        }
+      ]
+    }
+  },
+  {
+    "input": {
+      "text": "生活平静无波,怒火升腾,如今满心欢愉。",
+      "text_category": "emotional_dialogue",
+      "emotion_seq": [
+        "Angry",
+        "Sad"
+      ]
+    },
+    "output": {
+      "segments": [
+        {
+          "lines_seg": "生活平静无波,怒火升腾,",
+          "emotion": "Angry",
+          "emotion_description": "语气激昂，语速加快，音量增大",
+          "time": "3.0",
+          "prompt_wav": "0005/Neutral/0005_000001.wav",
+          "prompt_utt_id": "0005_000001",
+          "prompt_text": "打远一看，它们的确很是美丽，",
+          "generated_wav": "chinese_0004.wav"
+        },
+        {
+          "lines_seg": "如今满心欢愉。",
+          "emotion": "Sad",
+          "emotion_description": "语调低沉，语速放缓，略显无奈",
+          "time": "2.0",
+          "prompt_wav": "0005/Neutral/0005_000001.wav",
+          "prompt_utt_id": "0005_000001",
+          "prompt_text": "打远一看，它们的确很是美丽，",
+          "generated_wav": "chinese_0004.wav"
+        }
+      ]
+    }
+  }
+]

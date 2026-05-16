@@ -1,0 +1,56 @@
+# --- Model weights (downloaded by user, never commit) ---
+checkpoints/*
+!checkpoints/config.yaml
+*.pth
+*.safetensors
+*.bin
+*.ckpt
+*.onnx
+
+# --- Datasets (downloaded by user) ---
+datasets/Emotion Speech Dataset/
+!datasets/MED-TTS/
+
+# --- Inference outputs / test runs ---
+results/
+test_results/
+outputs/
+*.wav
+# Keep the bundled out-of-the-box speaker reference clip.
+!datasets/Ref/*.wav
+
+# --- Python build / cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.tox/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- IDE / OS ---
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Environment ---
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# --- Logs ---
+*.log
