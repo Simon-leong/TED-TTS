@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="assets/TED-TTS-icon.png" width="100" height="100" style="border-radius:16px;" alt="TED-TTS icon">
-</p>
-
 <h1 align="center">
-  <strong>TED-TTS</strong>
+  <img src="assets/TED-TTS-icon.png" width="80" height="80" alt="TED-TTS icon">
+  &nbsp;<strong>TED-TTS</strong>
 </h1>
 
 ### <em>Training-Free Intra-Utterance Emotion and Duration Control for Text-to-Speech Synthesis</em>
