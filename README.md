@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/TED-TTS-icon.png" width="80" height="80" alt="TED-TTS icon">
+  <img src="assets/TED-TTS-icon.png" width="100" height="100" valign="middle" alt="TED-TTS icon">
   &nbsp;<strong>TED-TTS</strong>
 </h1>
 
